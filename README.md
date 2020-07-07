@@ -1,8 +1,8 @@
 ---
-title: Jekyll Redirect 301
+title: Redirecting to New Site...
 redirect_to:
-  - http://some-website.com
-permalink: /jekyll-redirect/
+  - https://rcmms.steigerlabs.io
+permalink: /
 ---
-# Hello! We moved sites (again).
+# Hello! We moved sites.
 [Take me to the new site!](https://rcmms.steigerlabs.io "New Site")
