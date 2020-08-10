@@ -5,4 +5,4 @@ redirect_to:
 permalink: /
 ---
 # Hello! We moved sites.
-[Take me to the new site!](https://rcmms.steigerlabs.io "New Site")
+[Take me to the new site!](https://reedystudents.games "New Site")
