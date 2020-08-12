@@ -1,7 +1,7 @@
 ---
 title: Redirecting to New Site...
 redirect_to:
-  - https://reedystudents.games
+  - https://www.reedystudents.games
 permalink: /
 ---
 # Hello! We moved sites.
