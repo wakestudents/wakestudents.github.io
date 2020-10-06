@@ -4,5 +4,5 @@ redirect_to:
   - https://www.reedystudents.games
 permalink: /
 ---
-# Hello! We moved sites.
-[Take me to the new site!](https://reedystudents.games "New Site")
+# Redirecting to www.....
+[Not working? Click here!](https://www.reedystudents.games "WWW Site")
